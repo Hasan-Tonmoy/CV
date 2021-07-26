@@ -1,0 +1,15 @@
+#myImage {
+  clip-path: circle(45% at 50% 50%);
+}
+table,
+th,
+td {
+  border: 2px solid rgb(143, 95, 95);
+  border-collapse: separate;
+  text-align: center;
+  color: cadetblue;
+}
+th,
+td {
+  padding: 10px;
+}
